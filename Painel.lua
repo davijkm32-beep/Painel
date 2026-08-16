@@ -114,4 +114,4 @@ credit.Text = "Criado por você ✦"
 credit.TextColor3 = Color3.fromRGB(170, 170, 180)
 credit.TextSize = 13
 credit.Font = Enum.Font.Gotham
-credit.Parent = main
+credit.Parent = main--fim
